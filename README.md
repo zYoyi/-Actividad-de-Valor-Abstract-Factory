@@ -1,36 +1,47 @@
-Actividad-de-evidencia-3_U2-Prototipo
-TECNOLÓGICO NACIONAL DE MÉXICO
-INSTITUTO TECNOLÓGICO DE TIJUANA
-SUBDIRECCIÓN ACADÉMICA
-DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN
+# Actividad-de-evidencia-3_U2-Prototipo
 
+<div align="center">
 
+# TECNOLÓGICO NACIONAL DE MÉXICO  
+## INSTITUTO TECNOLÓGICO DE TIJUANA  
 
-SEMESTRE:
-Enero - Junio 2026
+### SUBDIRECCIÓN ACADÉMICA  
+### DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN  
 
+<br><br>
 
-CARRERA:
-Ingeniería en Sistemas Computacionales
+**SEMESTRE:**  
+Enero - Junio 2026  
 
+<br>
 
-MATERIA:
-Patrones de Diseño
+**CARRERA:**  
+Ingeniería en Sistemas Computacionales  
 
+<br>
 
-TÍTULO ACTIVIDAD:
+**MATERIA:**  
+Patrones de Diseño  
+
+<br>
+
+**TÍTULO ACTIVIDAD:**  
 Actividad de Valor Abstract Factory
 
+<br>
 
-UNIDAD A EVALUAR:
-Unidad 2
+**UNIDAD A EVALUAR:**  
+Unidad 2  
 
+<br><br>
 
+**NOMBRE Y NÚMERO DE CONTROL DEL ALUMNO:**  
+Ortega Jimenez Jordi Joel 21212012  
 
+<br>
 
-NOMBRE Y NÚMERO DE CONTROL DEL ALUMNO:
-Ortega Jimenez Jordi Joel 21212012
+**NOMBRE DEL MAESTRO (A):**  
+Maribel Guerrero Luis  
 
+</div>
 
-NOMBRE DEL MAESTRO (A):
-Maribel Guerrero Luis
